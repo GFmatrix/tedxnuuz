@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Oct 2023 23:44:44 at https://tedxnuuz.netlify.app +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://tedxnuuz.netlify.app -O1 "C:\Users\Asus\Desktop\TEDa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:47:19	Error: 	"Not Found" (404) at link https://tedxnuuz.netlify.app/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js (from https://tedxnuuz.netlify.app/www/index.html)
+23:47:19	Error: 	"Not Found" (404) at link https://tedxnuuz.netlify.app/www/images/bg/tickit.jpg (from https://tedxnuuz.netlify.app/www/css/style.css)
+23:47:19	Error: 	"Not Found" (404) at link https://tedxnuuz.netlify.app/www/images/blog/single/f-image.jpg (from https://tedxnuuz.netlify.app/www/css/style.css)
+23:48:10	Warning: 	file not stored in cache due to bogus state (broken size, expected 5429770 got 3369421): https://tedxnuuz.netlify.app/www/images/speakers/Muhammad Talatov.JPG
+23:48:26	Error: 	"Not Found" (404) at link https://tedxnuuz.netlify.app/images/logo-white.png (from https://tedxnuuz.netlify.app/www/homee)
+23:48:31	Warning: 	Retry after error -4 (Incorrect length (3369421 Bytes, 5429770 expected)) at link https://tedxnuuz.netlify.app/www/images/speakers/Muhammad Talatov.JPG (from https://tedxnuuz.netlify.app/www/spealers.html)
+23:48:31	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://tedxnuuz.netlify.app/www/images/speakers/Adilkhan Kenpeliev.jpg (from https://tedxnuuz.netlify.app/www/spealers.html)
+23:48:31	Warning: 	Retry after error -4 (No data (connection closed)) at link https://tedxnuuz.netlify.app/www/past-talks.html (from https://tedxnuuz.netlify.app/www/past-talks)
+23:48:34	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://tedxnuuz.netlify.app/images.squarespace-cdn.com/content/v1/63c60a317f81cc43cac47e24/04181bcf-741b-4f1b-b348-ce406673f81e/12244660_642664845873434_7316595623234386959_o.jpg (from https://tedxnuuz.netlify.app/www/past-talks)
+23:48:34	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://tedxnuuz.netlify.app/images.squarespace-cdn.com/content/v1/63c60a317f81cc43cac47e24/f9c0c815-2462-44c2-89fb-c0e817863ecd/12239306_642661329207119_6254106158214991924_o.jpg (from https://tedxnuuz.netlify.app/www/past-talks)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 58 seconds : 124 links scanned, 114 files written (39182575 bytes overall) [21995851 bytes received at 92419 bytes/sec], 22467456 bytes transferred using HTTP compression in 59 files, ratio 23%
+(4 errors, 6 warnings, 0 messages)
