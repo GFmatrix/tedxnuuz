@@ -254,7 +254,12 @@ p.lead{
 	color:#363636;
 }
 body,p{
-	color:#777;
+	color: grey;
+	font-size: 1.4rem;
+}
+.sqs-html-content p{
+	color: white;
+	font-size: 1rem;
 }
 p span{
 	color:#fff;
